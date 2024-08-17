@@ -3,7 +3,7 @@
 ## Using HTML,CSS & Javascript for Logic to view the collection of images !
 
 <h2 align="center">
-  <a href="-faseeh.vercel.app/" target="_blank">Images-Gallery-Faseeh.vercel.app</a>
+  <a href="https://image-gallery-faseeh.vercel.app/" target="_blank">Images-Gallery-Faseeh.vercel.app</a>
 </h2>
 
 <div align="center">
