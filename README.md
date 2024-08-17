@@ -5,23 +5,27 @@
 <h2 align="center">
   <a href="-faseeh.vercel.app/" target="_blank">Image_Gallery-Faseeh.vercel.app</a>
 </h2>
+<div align="center">
+  <img alt="Demo" src="./Extra/src1.PNG" />
+  </div>
 <h2 align="center">
   <a href="-faseeh.vercel.app/" target="_blank">Calculator-Faseeh.vercel.app</a>
 </h2>
+<div align="center">
+  <img alt="Demo" src="./Extra/src2.PNG" />
+  </div>
 <h2 align="center">
   <a href="-faseeh.vercel.app/" target="_blank">Portfolio_Site-Faseeh.vercel.app</a>
 </h2>
+<div align="center">
+  <img alt="Demo" src="./Extra/src3.PNG" />
+  </div>
 <h2 align="center">
   <a href="-faseeh.vercel.app/" target="_blank">Music_Player-Faseeh.vercel.app</a>
 </h2>
-
 <div align="center">
-  <img alt="Demo" src="./Extra/src1.PNG" />
-  <img alt="Demo" src="./Extra/src2.PNG" />
-  <img alt="Demo" src="./Extra/src3.PNG" />
   <img alt="Demo" src="./Extra/src4.PNG" />
-</div>
-
+  </div>
 <br/>
 
 ## Built With
