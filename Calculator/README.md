@@ -3,11 +3,11 @@
 ## Using HTML,CSS & Javascript for Arthmatic Logic to perform calculation !
 
 <h2 align="center">
-  <a href="https://simon-game-liart-faseeh.vercel.app/" target="_blank">Calculator-Faseeh.vercel.app</a>
+  <a href="-faseeh.vercel.app/" target="_blank">Calculator-Faseeh.vercel.app</a>
 </h2>
 
 <div align="center">
-  <img alt="Demo" src="./Extra/src.PNG" />
+  <img alt="Demo" src="./Extra/src1.PNG" />
 </div>
 
 <br/>
