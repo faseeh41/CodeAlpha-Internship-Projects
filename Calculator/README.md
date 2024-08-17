@@ -3,7 +3,7 @@
 ## Using HTML,CSS & Javascript for Arthmatic Logic to perform calculation !
 
 <h2 align="center">
-  <a href="-faseeh.vercel.app/" target="_blank">Calculator-Faseeh.vercel.app</a>
+  <a href="https://calculator-seven-faseeh.vercel.app/" target="_blank">Calculator-Faseeh.vercel.app</a>
 </h2>
 
 <div align="center">
