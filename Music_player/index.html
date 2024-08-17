@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Music Player</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="icon"
+      href="https://img.icons8.com/?size=100&id=TooeCxLa1PBN&format=png&color=000000"
+      type="image/x-icon"
+    />
+  </head>
+  <body>
+    <header>
+      <h1>Music Player Task 4</h1>
+    </header>
+    <div class="player">
+      <div class="details">
+        <h2 id="title">Song Title</h2>
+        <p id="artist">Satinder Sartaaj</p>
+      </div>
+      <div class="controls">
+        <button id="prev" onclick="prevSong()">&#9664;</button>
+        <button id="play" onclick="playPause()">&#9658;</button>
+        <button id="next" onclick="nextSong()">&#9654;</button>
+      </div>
+      <div class="progress-container">
+        <input type="range" id="progress" value="0" min="0" max="100" />
+      </div>
+      <div class="volume-container">
+        <label for="volume">Volume:</label>
+        <input type="range" id="volume" value="100" min="0" max="100" />
+      </div>
+    </div>
+
+    <audio id="audio"></audio>
+    <footer>
+      <p>
+        &copy; 2024
+        <a
+          href="https://github.com/faseeh41"
+          class="text-decoration-none"
+          style="color: rgb(255, 255, 255)"
+          >M.Faseeh Hassan</a
+        >. All Rights Reserved.
+      </p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

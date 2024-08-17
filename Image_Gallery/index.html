@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="./images/favicon.png" type="image/x-icon" />
+  </head>
+  <body>
+    <header>
+      <h1>Image Gallery Task 1</h1>
+    </header>
+    <div class="gallery">
+      <div class="gallery-item">
+        <img src="./images/image1.jpg" alt="Image 1" />
+      </div>
+      <div class="gallery-item">
+        <img src="./images/image2.jpg" alt="Image 2" />
+      </div>
+      <div class="gallery-item">
+        <img src="./images/image3.jpg" alt="Image 3" />
+      </div>
+      <div class="gallery-item">
+        <img src="./images/image4.jpg" alt="Image 4" />
+      </div>
+      <!-- Add more images as needed -->
+    </div>
+
+    <!-- Modal for full-size image vie-->
+    <div id="imageModal" class="modal">
+      <span class="close">&times;</span>
+      <img class="modal-content" id="modalImage" />
+      <div id="caption"></div>
+    </div>
+    <footer>
+      <p>
+        &copy; 2024
+        <a
+          href="https://github.com/faseeh41"
+          class="text-decoration-none"
+          style="color: rgb(255, 255, 255)"
+          >M.Faseeh Hassan</a
+        >. All Rights Reserved.
+      </p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
