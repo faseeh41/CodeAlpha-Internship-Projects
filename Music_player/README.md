@@ -3,7 +3,7 @@
 ## Using HTML,CSS & Javascript for Logic to play music & volume!
 
 <h2 align="center">
-  <a href="-faseeh.vercel.app/" target="_blank">Music-Player-Faseeh.vercel.app</a>
+  <a href="https://music-player-faseeh.vercel.app/" target="_blank">Music-Player-Faseeh.vercel.app</a>
 </h2>
 
 <div align="center">
