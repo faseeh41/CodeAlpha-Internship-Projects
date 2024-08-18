@@ -3,7 +3,7 @@
 ## Using HTML,CSS for design the the portfolio-site !
 
 <h2 align="center">
-  <a href="-faseeh.vercel.app/" target="_blank">Portfolio-Site-Faseeh.vercel.app</a>
+  <a href="https://portfolio-site-faseeh.netlify.app/" target="_blank">Portfolio-Site-Faseeh.vercel.app</a>
 </h2>
 
 <div align="center">
