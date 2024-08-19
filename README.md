@@ -15,7 +15,7 @@
   <img alt="Demo" src="./Extra/src2.PNG" />
   </div>
 <h2 align="center">
-  <a href="https://portfolio-site-faseeh.netlify.app/" target="_blank">Portfolio-site-Faseeh.netlify.app/</a>
+  <a href="https://portfolio-site-faseeh.netlify.app/" target="_blank">Portfolio-site-Faseeh.netlify.app</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Extra/src3.PNG" />
